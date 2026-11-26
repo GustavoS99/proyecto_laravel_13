@@ -35,8 +35,8 @@ Aplicación web con autenticación de usuarios construida con Laravel 13, con un
 **1. Clona el repositorio**
 
 ```bash
-git clone https://github.com/gustavos99/learn.git
-cd learn
+git clone https://github.com/gustavos99/proyecto_laravel_13.git
+cd proyecto_laravel_13
 ```
 
 **2. Configura el usuario de Docker**
